@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="prova:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4cb0c69-6bda-42a6-a43a-d861d1a92ef7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wherexp/Report.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4862">
+              <caret line="1735" selection-start-line="1735" selection-end-line="1735" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#centroideVSSingoleGenerale#0;class#Report#0" />
+                <element signature="method#sistemaVSBaseline#0;class#Report#0" />
+                <element signature="method#centroideVSSingolePreferenze#0;class#Report#0" />
+                <element signature="method#valutazioniAssoluteCentroide#0;class#Report#0" />
+                <element signature="method#valutazioniAssoluteSingole#0;class#Report#0" />
+                <element signature="method#centroideVSSingoleMetriche#0;class#Report#0" />
+                <element signature="method#sistemaVSBaselineMetriche#0;class#Report#0" />
+                <element signature="method#centroideVSsingoleNumContesti#0;class#Report#0" />
+                <element signature="method#infoUtenti#0;class#Report#0" />
+                <element signature="method#contatoriConfigurazioni#0;class#Report#0" />
+                <element signature="method#contatoriNumeroContesti#0;class#Report#0" />
+                <element signature="method#preferenzeMetrichePerContesti#0;class#Report#0" />
+                <element signature="method#preferenzeMetrichePerContestiSistemaVSBaseline#0;class#Report#0" />
+                <element signature="e#51458#52594#1" />
+                <element signature="method#contatoriLocaliSuggeriti#0;class#Report#0" />
+                <element signature="method#Report#0;class#Report#0" />
+                <element signature="method#controllo#0;class#Report#0" />
+                <element signature="class#Utente#0;class#Report#0" />
+                <element signature="class#ValutazioneTipo1_2#0;class#Report#0" />
+                <element signature="class#ValutazioneTipo3#0;class#Report#0" />
+                <element signature="method#ValutazioneTipo3#0;class#ValutazioneTipo3#0;class#Report#0" />
+                <element signature="method#ValutazioneTipo3#1;class#ValutazioneTipo3#0;class#Report#0" />
+                <element signature="class#ValutazioneTipo4#0;class#Report#0" />
+                <element signature="method#ValutazioneTipo4#0;class#ValutazioneTipo4#0;class#Report#0" />
+                <element signature="method#ValutazioneTipo4#1;class#ValutazioneTipo4#0;class#Report#0" />
+                <element signature="method#setPreferenzaPrecedente#0;class#ValutazioneTipo4#0;class#Report#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/report.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="487">
+              <caret line="799" column="31" selection-start-line="799" selection-start-column="31" selection-end-line="799" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wherexp/VettoriContesto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="19" column="9" selection-start-line="17" selection-start-column="8" selection-end-line="29" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="jsf" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/wherexp/MatriceLF.java" />
+        <option value="$PROJECT_DIR$/src/wherexp/SceltaFrasiItem.java" />
+        <option value="$PROJECT_DIR$/src/wherexp/VettoriContesto.java" />
+        <option value="$PROJECT_DIR$/src/wherexp/MatriceLC.java" />
+        <option value="$PROJECT_DIR$/src/wherexp/CombinazioniItems.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/results.jsp" />
+        <option value="$PROJECT_DIR$/src/wherexp/SalvaValutazioni.java" />
+        <option value="$PROJECT_DIR$/web/b.html" />
+        <option value="$PROJECT_DIR$/web/locali.jsp" />
+        <option value="$PROJECT_DIR$/src/wherexp/Temp.java" />
+        <option value="$PROJECT_DIR$/web/matrici.jsp" />
+        <option value="$PROJECT_DIR$/src/wherexp/Locale.java" />
+        <option value="$PROJECT_DIR$/web/results.jsp" />
+        <option value="$PROJECT_DIR$/web/sceltaContesti.jsp" />
+        <option value="$PROJECT_DIR$/web/pagine/results.jsp" />
+        <option value="$PROJECT_DIR$/web/js/jq.js" />
+        <option value="$PROJECT_DIR$/web/js/script.js" />
+        <option value="$PROJECT_DIR$/web/css/slider.css" />
+        <option value="$PROJECT_DIR$/web/css/index.jsp" />
+        <option value="$PROJECT_DIR$/web/css/button_style.css" />
+        <option value="$PROJECT_DIR$/web/pagine/try.html" />
+        <option value="$PROJECT_DIR$/src/wherexp/ServletGestioneInfoUtente.java" />
+        <option value="$PROJECT_DIR$/src/wherexp/ServletSalvataggioValutazione4.java" />
+        <option value="$PROJECT_DIR$/src/wherexp/ServletSalvataggioValutazione3.java" />
+        <option value="$PROJECT_DIR$/src/wherexp/ServletSalvataggioValutazione2.java" />
+        <option value="$PROJECT_DIR$/web/a.html" />
+        <option value="$PROJECT_DIR$/src/wherexp/MatriceLocaliContestiFrasi.java" />
+        <option value="$PROJECT_DIR$/web/end.html" />
+        <option value="$PROJECT_DIR$/src/wherexp/ServletGestioneRichiesta.java" />
+        <option value="$PROJECT_DIR$/src/wherexp/ServletSalvataggioValutazione1.java" />
+        <option value="$PROJECT_DIR$/web/pagine/results3.jsp" />
+        <option value="$PROJECT_DIR$/web/pagine/results4.jsp" />
+        <option value="$PROJECT_DIR$/web/pagine/controllolocali.jsp" />
+        <option value="$PROJECT_DIR$/web/pagine/infoUtente.jsp" />
+        <option value="$PROJECT_DIR$/web/end.jsp" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/pagine/results1.jsp" />
+        <option value="$PROJECT_DIR$/web/pagine/results2.jsp" />
+        <option value="$PROJECT_DIR$/web/pagine/sceltaContesti.jsp" />
+        <option value="$PROJECT_DIR$/src/wherexp/Configurazione.java" />
+        <option value="$PROJECT_DIR$/src/wherexp/MatriceContestiItemFrasi.java" />
+        <option value="$PROJECT_DIR$/src/wherexp/Main.java" />
+        <option value="$PROJECT_DIR$/src/wherexp/FileTestoItems.java" />
+        <option value="$PROJECT_DIR$/src/wherexp/VettoreFrase.java" />
+        <option value="$PROJECT_DIR$/src/wherexp/SimilaritaCoseno.java" />
+        <option value="$PROJECT_DIR$/src/wherexp/MatriceLocaleContesto.java" />
+        <option value="$PROJECT_DIR$/src/wherexp/SceltaFrasiItemFiles.java" />
+        <option value="$PROJECT_DIR$/src/wherexp/Top10LocaliPerCombinazione.java" />
+        <option value="$PROJECT_DIR$/src/wherexp/Report.java" />
+        <option value="$PROJECT_DIR$/web/report.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="prova" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prova" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prova" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="prova" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570892495878" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Scnasione sonarqube/aa" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Giuseppe\Desktop\prova\web" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="wherexp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Giuseppe\Desktop\prova\src\wherexp" />
+      <recent name="C:\Users\Giuseppe\Desktop\prova\web" />
+      <recent name="C:\Users\Giuseppe\Desktop\prova\web\assets\images\restaurant\800x975" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 7.0.94" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.94" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="prova:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/prova_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_7_0_94_prova" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="prova:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Giuseppe\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4cb0c69-6bda-42a6-a43a-d861d1a92ef7" name="Default Changelist" comment="" />
+      <created>1563287924913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563287924913</updated>
+      <workItem from="1563287928532" duration="6530000" />
+      <workItem from="1563354150706" duration="74996000" />
+      <workItem from="1563873625631" duration="47935000" />
+      <workItem from="1564151449180" duration="12172000" />
+      <workItem from="1564309254775" duration="798000" />
+      <workItem from="1564310301791" duration="83798000" />
+      <workItem from="1566379019104" duration="5274000" />
+      <workItem from="1566396255553" duration="17091000" />
+      <workItem from="1566635235887" duration="35818000" />
+      <workItem from="1568152168103" duration="7166000" />
+      <workItem from="1568536365320" duration="2098000" />
+      <workItem from="1568707049960" duration="25360000" />
+      <workItem from="1569747854809" duration="1120000" />
+      <workItem from="1569940709017" duration="11650000" />
+      <workItem from="1570542089810" duration="6168000" />
+      <workItem from="1570891928306" duration="650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="338624000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2342282" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.04249292" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.04249292" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" weight="0.48300284" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.04249292" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3295302" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3295302" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2671141" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.9575071" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18696883" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.9575071" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/locali.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/wherexp/CombinazioniItems.java" />
+    <entry file="file://$PROJECT_DIR$/web/matrici.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/results.jsp" />
+    <entry file="file://$PROJECT_DIR$/WherEXP.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/sceltaContesti.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/js/jq.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/scrolling-nav.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/radio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/slider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1461">
+          <caret line="273" selection-start-line="273" selection-end-line="273" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/pagine/try.html" />
+    <entry file="file://$PROJECT_DIR$/web/css/button_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wherexp/Temp.java" />
+    <entry file="file://$PROJECT_DIR$/web/a.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6522">
+          <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="16" selection-end-line="356" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wherexp/ServletSalvataggioValutazione3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wherexp/ServletSalvataggioValutazione4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/servlet-api.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wherexp/MatriceLocaliContestiFrasi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="126" column="97" lean-forward="true" selection-start-line="126" selection-start-column="97" selection-end-line="126" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wherexp/ServletSalvataggioValutazione2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pagine/results3.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="39" column="76" selection-start-line="39" selection-start-column="76" selection-end-line="39" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pagine/results4.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="36" column="76" selection-start-line="36" selection-start-column="76" selection-end-line="36" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="31" column="74" selection-start-line="31" selection-start-column="74" selection-end-line="31" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wherexp/MatriceContestiItemFrasi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="199" column="20" lean-forward="true" selection-start-line="199" selection-start-column="20" selection-end-line="199" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wherexp/MatriceFC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wherexp/SceltaFrasiItem.java" />
+    <entry file="file://$PROJECT_DIR$/src/wherexp/FileTestoItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-445">
+          <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wherexp/SimilaritaCoseno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="226" column="45" selection-start-line="226" selection-start-column="4" selection-end-line="226" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wherexp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="45" column="44" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wherexp/MatriceLocaleContesto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wherexp/SceltaFrasiItemFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="11" column="113" selection-start-line="11" selection-start-column="113" selection-end-line="11" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wherexp/VettoreFrase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wherexp/Top10LocaliPerCombinazione.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pagine/controllolocali.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286">
+          <caret line="52" column="76" selection-start-line="52" selection-start-column="76" selection-end-line="52" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wherexp/Configurazione.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pagine/infoUtente.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wherexp/ServletGestioneRichiesta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="39" column="69" selection-start-line="39" selection-start-column="69" selection-end-line="39" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pagine/sceltaContesti.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="51" column="78" selection-start-line="51" selection-start-column="78" selection-end-line="51" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pagine/results1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2464">
+          <caret line="112" column="30" selection-start-line="112" selection-start-column="16" selection-end-line="112" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wherexp/ServletSalvataggioValutazione1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="29" column="60" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pagine/results2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2970">
+          <caret line="135" column="211" selection-start-line="135" selection-start-column="211" selection-end-line="135" selection-end-column="211" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/end.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4598">
+          <caret line="209" column="9" selection-start-line="207" selection-end-line="218" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/end.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="76" selection-start-line="30" selection-start-column="76" selection-end-line="30" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wherexp/Locale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wherexp/ServletGestioneInfoUtente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codice esecuzionne intero.java" />
+    <entry file="file://$PROJECT_DIR$/src/wherexp/Report.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4862">
+          <caret line="1735" selection-start-line="1735" selection-end-line="1735" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#centroideVSSingoleGenerale#0;class#Report#0" />
+            <element signature="method#sistemaVSBaseline#0;class#Report#0" />
+            <element signature="method#centroideVSSingolePreferenze#0;class#Report#0" />
+            <element signature="method#valutazioniAssoluteCentroide#0;class#Report#0" />
+            <element signature="method#valutazioniAssoluteSingole#0;class#Report#0" />
+            <element signature="method#centroideVSSingoleMetriche#0;class#Report#0" />
+            <element signature="method#sistemaVSBaselineMetriche#0;class#Report#0" />
+            <element signature="method#centroideVSsingoleNumContesti#0;class#Report#0" />
+            <element signature="method#infoUtenti#0;class#Report#0" />
+            <element signature="method#contatoriConfigurazioni#0;class#Report#0" />
+            <element signature="method#contatoriNumeroContesti#0;class#Report#0" />
+            <element signature="method#preferenzeMetrichePerContesti#0;class#Report#0" />
+            <element signature="method#preferenzeMetrichePerContestiSistemaVSBaseline#0;class#Report#0" />
+            <element signature="e#51458#52594#1" />
+            <element signature="method#contatoriLocaliSuggeriti#0;class#Report#0" />
+            <element signature="method#Report#0;class#Report#0" />
+            <element signature="method#controllo#0;class#Report#0" />
+            <element signature="class#Utente#0;class#Report#0" />
+            <element signature="class#ValutazioneTipo1_2#0;class#Report#0" />
+            <element signature="class#ValutazioneTipo3#0;class#Report#0" />
+            <element signature="method#ValutazioneTipo3#0;class#ValutazioneTipo3#0;class#Report#0" />
+            <element signature="method#ValutazioneTipo3#1;class#ValutazioneTipo3#0;class#Report#0" />
+            <element signature="class#ValutazioneTipo4#0;class#Report#0" />
+            <element signature="method#ValutazioneTipo4#0;class#ValutazioneTipo4#0;class#Report#0" />
+            <element signature="method#ValutazioneTipo4#1;class#ValutazioneTipo4#0;class#Report#0" />
+            <element signature="method#setPreferenzaPrecedente#0;class#ValutazioneTipo4#0;class#Report#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wherexp/VettoriContesto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="19" column="9" selection-start-line="17" selection-start-column="8" selection-end-line="29" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/report.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="799" column="31" selection-start-line="799" selection-start-column="31" selection-end-line="799" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>prova:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>prova</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

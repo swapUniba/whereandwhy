@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="prova:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/prova_war</output-path>
+    <root id="archive" name="wherexp.war">
+      <element id="artifact" artifact-name="prova:war exploded" />
+    </root>
+  </artifact>
+</component>
